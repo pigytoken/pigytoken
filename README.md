@@ -1,4 +1,4 @@
-# <img src="https://pigytoken.com/img/logo-head.png" style="zoom:15%;" /> **Hi Community, we are Pigy Token** 👋
+# <img width="200" src="https://pigytoken.com/img/logo-head.png" /> **Hi Community, we are Pigy Token** 👋
 
 ------
 
