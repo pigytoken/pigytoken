@@ -30,6 +30,11 @@ Cardano is a crypto-currency project that was launched in 2015 in a bid to revis
 ## Tools / Projects / Services
 
 ------
+**Oracle:**
+
+- **[PIGY Oracle](https://oracle.pigytoken.com/)**
+
+  The PIGY Oracle is a general-purpose Cardano ORACLE that posts off-chain information such as interest rates or commodity prices into smart contracts as on-chain data attached to the oracle's eUTxO. The fee for the oracle is paid in PIGY TOKEN, not in ADA, so the only ADA needed to read the oracle is the standard network-determined transaction fee. (Source: https://github.com/pigytoken/pigy-delegation/tree/main/oracle)
 
 **Games:**
 
